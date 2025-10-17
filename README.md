@@ -1,2 +1,2 @@
 # delta-practice
-This is simple practice
+This is simple practice.
